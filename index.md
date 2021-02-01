@@ -13,7 +13,7 @@
 
 ---
 [Future Project Location 3](http://example.com/)
-<img src="images/kilgor.png?raw=true"/>
+<img src="images/skyrim.jpg?raw=true"/>
 
 ---
 
