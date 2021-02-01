@@ -9,11 +9,11 @@
 
 ---
 [Future Project Location 2](/pdf/sample_presentation.pdf)
-<img src="images/kilgor.png?raw=true"/>
+<img src="images/skyrim.jpg?raw=true"/>
 
 ---
 [Future Project Location 3](http://example.com/)
-<img src="images/skyrim.jpg?raw=true"/>
+<img src="images/kilgor.png?raw=true"/>
 
 ---
 
