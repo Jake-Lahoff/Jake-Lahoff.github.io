@@ -2,28 +2,25 @@
 
 ---
 
-### Category Name 1 
+### Future Projects Will Be Located Here 
 
-[Project 1 Title](/sample_page)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
-
----
-[Project 2 Title](/pdf/sample_presentation.pdf)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[Future Project Location 1](/sample_page)
+<img src="images/red bull.jpg?raw=true"/>
 
 ---
-[Project 3 Title](http://example.com/)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[Future Project Location 2](/pdf/sample_presentation.pdf)
+<img src="images/kilgor.jpg?raw=true"/>
+
+---
+[Future Project Location 3](http://example.com/)
+<img src="images/skyrim.jpg?raw=true"/>
 
 ---
 
-### Category Name 2
+### More projects will go here
 
-- [Project 1 Title](http://example.com/)
-- [Project 2 Title](http://example.com/)
-- [Project 3 Title](http://example.com/)
-- [Project 4 Title](http://example.com/)
-- [Project 5 Title](http://example.com/)
+- [Another Future Project](http://example.com/)
+
 
 ---
 
