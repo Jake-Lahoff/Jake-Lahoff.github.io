@@ -9,7 +9,7 @@
 
 ---
 [Future Project Location 2](/pdf/sample_presentation.pdf)
-<img src="images/kilgor.jpg?raw=true"/>
+<img src="images/kilgor.png?raw=true"/>
 
 ---
 [Future Project Location 3](http://example.com/)
