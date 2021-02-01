@@ -9,7 +9,7 @@
 
 ---
 [Future Project Location 2](/pdf/sample_presentation.pdf)
-<img src="images/skyrim.jpg?raw=true"/>
+<img src="images/penguins.jpg?raw=true"/>
 
 ---
 [Future Project Location 3](http://example.com/)
