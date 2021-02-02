@@ -15,7 +15,7 @@
 
 ---
 [Future Project Location 3](http://example.com/)
-<br>This is some art from the video game Skyrim<br/>
+<br>This is some art from the video game Skyrim that I use as my desktop background.<br/>
 <img src="images/skyrim.jpg?raw=true"/>
 
 ---
