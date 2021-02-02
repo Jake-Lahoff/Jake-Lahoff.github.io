@@ -5,12 +5,12 @@
 ### Future Projects Will Be Located Here 
 
 [Future Project Location 1](/sample_page)
-<br>This is a formula 1 car driven by Max Verstappen I think<br/>
+<br>This is a formula 1 car driven by Max Verstappen I think.<br/>
 <img src="images/red bull.jpg?raw=true"/>
 
 ---
 [Future Project Location 2](/pdf/sample_presentation.pdf)
-<br>This is a picture of the Pittsburgh Penguins<br/>
+<br>This is a picture of the Pittsburgh Penguins after Evgeni Malkin Scored a Goal.<br/>
 <img src="images/penguins.jpg?raw=true"/>
 
 ---
