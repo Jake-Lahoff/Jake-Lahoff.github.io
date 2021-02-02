@@ -22,7 +22,7 @@
 
 ### More projects will go here
 
-- [Another Future Project](http://example.com/)
+- [Another Future Project Will Most Likely Go Here At Some Point](http://example.com/)
 
 
 ---
