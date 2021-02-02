@@ -5,7 +5,7 @@
 ### Future Projects Will Be Located Here 
 
 [Future Project Location 1](/sample_page)
-<br>This is a formula 1 car<br/>
+<br>This is a formula 1 car driven by Max Verstappen I think<br/>
 <img src="images/red bull.jpg?raw=true"/>
 
 ---
