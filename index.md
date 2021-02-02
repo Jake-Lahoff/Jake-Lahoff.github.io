@@ -5,7 +5,7 @@
 ### Future Projects Will Be Located Here 
 
 [Future Project Location 1](/sample_page)
-This is a formula one car
+<br>This is a formula one car<br/>
 <img src="images/red bull.jpg?raw=true"/>
 
 ---
