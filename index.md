@@ -6,17 +6,17 @@
 
 [Future Project Location 1](/chapter2/index)
 <br>This is a screengrab from chapter 2 in lab 2 that I coded using R<br/>
-<img src="images/lab2.png?raw=true"/>(/chapter2/index)
+[<img src="images/lab2.png?raw=true"/>](/chapter2/index)
 
 ---
 [Future Project Location 2](/lab22/index)
 <br>This is a screengrab from chapter 3, made using Q.<br/>
-<img src="images/lab22.png?raw=true"/>(/lab22/index)
+[<img src="images/lab22.png?raw=true"/>](/lab22/index)
 
 ---
 [Future Project Location 3](http://example.com/)
 <br>This is a screengrab from chapter 4 of lab 2, also made using Q.<br/>
-<img src="images/lab23.png?raw=true"/>(/lab23/index)
+[<img src="images/lab23.png?raw=true"/>](/lab23/index)
 
 ---
 
