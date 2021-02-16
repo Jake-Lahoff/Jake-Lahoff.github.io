@@ -9,7 +9,7 @@
 <img src="images/lab2.png?raw=true"/>
 
 ---
-[Future Project Location 2](/pdf/sample_presentation.pdf)
+[Future Project Location 2](/lab22/index)
 <br>This is a screengrab from chapter 3, made using Q.<br/>
 <img src="images/lab22.png?raw=true"/>
 
