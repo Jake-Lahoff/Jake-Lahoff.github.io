@@ -15,8 +15,8 @@
 
 ---
 [Future Project Location 3](http://example.com/)
-<br>This is some art from the video game Skyrim.<br/>
-<img src="images/skyrim.jpg?raw=true"/>
+<br>This is a screengrab from chapter 4 of lab 2, also made using Q.<br/>
+<img src="images/lab23.png?raw=true"/>
 
 ---
 
