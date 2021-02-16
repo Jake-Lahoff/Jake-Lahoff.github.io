@@ -6,12 +6,12 @@
 
 [Future Project Location 1](/sample_page)
 <br>This is a formula 1 car.<br/>
-<img src="images/red bull.jpg?raw=true"/>
+<img src="images/lab2.png?raw=true"/>
 
 ---
 [Future Project Location 2](/pdf/sample_presentation.pdf)
 <br>This is a picture of the Pittsburgh Penguins.<br/>
-<img src="images/penguins.jpg?raw=true"/>
+<img src="images/lab22.png?raw=true"/>
 
 ---
 [Future Project Location 3](http://example.com/)
