@@ -5,12 +5,12 @@
 ### Future Projects Will Be Located Here 
 
 [Future Project Location 1](/sample_page)
-<br>This is a formula 1 car.<br/>
+<br>This is a screengrab from chapter 2 in lab 2 that I coded using R<br/>
 <img src="images/lab2.png?raw=true"/>
 
 ---
 [Future Project Location 2](/pdf/sample_presentation.pdf)
-<br>This is a picture of the Pittsburgh Penguins.<br/>
+<br>This is a screengrab from chapter 3, made using Q.<br/>
 <img src="images/lab22.png?raw=true"/>
 
 ---
