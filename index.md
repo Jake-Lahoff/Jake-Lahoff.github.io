@@ -4,7 +4,7 @@
 
 ### Future Projects Will Be Located Here 
 
-[Future Project Location 1](/sample_page)
+[Future Project Location 1](/chapter2/index)
 <br>This is a screengrab from chapter 2 in lab 2 that I coded using R<br/>
 <img src="images/lab2.png?raw=true"/>
 
