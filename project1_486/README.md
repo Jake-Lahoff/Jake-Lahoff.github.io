@@ -11,7 +11,7 @@ Data sets are shown in decades with dates, sizes, locations, and other informati
 
 Below is my map and accomaning graph of total wildfire damage by decade
 
-<images/fire_map_graph.png>
+<Jake-Lahoff.github.io/blob/master/images/fire_map_graph.png>
 
 It is also accompanied by a gif showing each indiviual decade of wildfires
 
