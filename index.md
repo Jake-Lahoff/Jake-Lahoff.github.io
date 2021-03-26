@@ -1,12 +1,10 @@
 ## Portfolio
 
----
 
-Project 1 proposal can be found [here](project1_486/README.md)
 
-### Future Projects Will Be Located Here 
+### Projects located here 
 
-[Future Project Location 1](/chapter2/index)
+[Project 1](/chapter2/index)
 <br>This is a screengrab from chapter 2 in lab 2 that I coded using R<br/>
 [<img src="images/lab2.png?raw=true"/>](/chapter2/index)
 
