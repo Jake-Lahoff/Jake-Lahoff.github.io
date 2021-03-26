@@ -5,7 +5,7 @@
 ### Projects located here 
 
 [Project 1](/chapter2/index)
-<br>This is a screengrab from chapter 2 in lab 2 that I coded using R<br/>
+<br>My project 1 includes demonstrating increasing burn areas of california wildfires over time<br/>
 [<img src="images/fire_map_graph.png?raw=true"/>](/chapter2/index)
 
 ---
