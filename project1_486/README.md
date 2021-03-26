@@ -6,8 +6,8 @@
 The goal of this project is to display the increase in wildfire change over the past 60 years.
 
 Data was aquired from the FARP initiative open data group, website can be found [here](https://egis.fire.ca.gov/arcgis/rest/services/FRAP/FirePerimeters/MapServer)
+Data sets are shown in decades with dates, sizes, locations, and other information about recorded wildfires.
 
-Two data sets will be needed
-* US population
-* Location of all 32 football teams
+Below is my map and accomaning graph of total wildfire damage by decade
+
 
