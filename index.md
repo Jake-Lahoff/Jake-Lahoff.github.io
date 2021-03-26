@@ -6,7 +6,7 @@
 
 [Project 1](/chapter2/index)
 <br>This is a screengrab from chapter 2 in lab 2 that I coded using R<br/>
-[<img src="images/lab2.png?raw=true"/>](/chapter2/index)
+[<img src="images/fire_map_graph.png?raw=true"/>](/chapter2/index)
 
 ---
 [Future Project Location 2](/lab22/index)
