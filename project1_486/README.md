@@ -10,5 +10,5 @@ Data was aquired from the FARP initiative open data group, website can be found 
 Data sets are shown in decades with dates, sizes, locations, and other information about recorded wildfires.
 
 Below is my map and accomaning graph of total wildfire damage by decade
-
+[<img src="images/fire_map_graph.png?raw=true"/>]
 
