@@ -4,11 +4,11 @@
 
 ### Projects located here 
 
-[Project 1](project1_486/README.md)
+[Project 1](project1_486/index.md)
 <br>My project 1 includes demonstrating increasing burn areas of california wildfires over time<br/>
-[<img src="images/fire_map_graph.png?raw=true"/>](project1_486/README.md)
+[<img src="images/fire_map_graph.png?raw=true"/>](project1_486/index.md)
 
-[<img src="images/fires3.gif?raw=true"/>](project1_486/README.md)
+[<img src="images/fires3.gif?raw=true"/>](project1_486/index.md)
 
 ---
 [Future Project Location 2](/lab22/index)
