@@ -16,5 +16,3 @@ Below is my map and accomaning graph of total wildfire damage by decade
 It is also accompanied by a gif showing each indiviual decade of wildfires
 
 <img src="images/demo.gif?raw=true"/>
-
-
