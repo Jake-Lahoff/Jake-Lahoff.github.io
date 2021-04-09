@@ -11,9 +11,9 @@
 [<img src="images/fires3.gif?raw=true"/>](project1_486/index.md)
 
 ---
-[Future Project Location 2](/lab22/index)
-<br>This is a screengrab from chapter 3, made using Q.<br/>
-[<img src="images/lab22.png?raw=true"/>](/lab22/index)
+[Lab 6](/lab22/index)
+<br>Lab 6 involving bivariate choropleth maps<br/>
+[<img src="images/bivariate.pdf?raw=true"/>](/lab22/index)
 
 ---
 [Future Project Location 3](http://example.com/)
