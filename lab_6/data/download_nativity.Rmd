@@ -1,0 +1,51 @@
+```{r}
+#packages
+library(tidycensus)
+library(sf)
+library(ggplot2)
+
+#settings for tidycensus
+options(tigris_class = 'sf')
+options(tigris_use_cashe = TRUE)
+
+setwd("D://School//486//lab_6")
+```
+
+```{r}
+#obtain data for 2019
+##Nativity in Baltimore
+bmore_nativity_2019 <- get_acs(geography = 'tract',
+                          variables =  c('total' = 'B05002_001', 
+                                        'native' = 'B05012_002', 
+                                        'foreign_born' = 'B05012_003' 
+                                        ),
+                          year = 2019,
+                          survey = 'acs5',
+                          state = c(24),
+                          county = c(510, 5),
+                          geometry = TRUE, #download geometry
+                          output = 'wide' )
+```
+
+```{r}
+#obtain data for 2015
+##Nativity in Baltimore
+bmore_nativity_2015 <- get_acs(geography = 'tract',
+                          variables =  c('total' = 'B05002_001', 
+                                        'native' = 'B05012_002', 
+                                        'foreign_born' = 'B05012_003' 
+                                        ),
+                          year = 2015,
+                          survey = 'acs5',
+                          state = c(24),
+                          county = c(510, 5),
+                          geometry = FALSE, #alreadydownloaded geometry
+                          output = 'wide' )
+```
+
+```{r}
+#transform to 3857
+st_write(st_transform(bmore_nativity_2019, 3857), 'bmore_nativity_2019.geojson')
+st_write(bmore_nativity_2015, 'bmore_nativity_2015.csv') #geometry false
+```
+
