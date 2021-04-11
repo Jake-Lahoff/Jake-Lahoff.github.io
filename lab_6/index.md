@@ -6,7 +6,7 @@ The Directory includes
 - An index file with markdown for this page.
 
 ## Introduction
-For this lab, I focused on creating a map that will show estimated change in population in Baltimore, MD between 2015-2019. Data will compare estimated change in native population to estimated change in foureign-born population. Comparison will be made in the form of a bivariate choropleth map showing the two variables on one map of baltimore.
+For this lab, I focused on creating a map that will show estimated change in population in Baltimore, MD between 2015-2019. Data will compare estimated change in native population to estimated change in foureign-born population. Comparison will be made in the form of a bivariate choropleth map showing the two variables on one map of Baltimore.
 
 ## Data
 Data was collected from the US census bureau using tidycensus. 
@@ -19,7 +19,10 @@ The R code processed through RStudio is as follows
 <img src="images/r_code.png?raw=true"/>
 
 ## Processing and Transformations
-The 
+Three transformations were required in this process.
+- Changing CRS of geometry to the QGIS standard EPSG: 3857
+- Joining attribute data for 2015 data to the geometry for 2019 data, joining via the name collumn for census tracts
+- Clipping the vector data to only Baltimore city, from the original download of Baltimore County and City
 
 ## Analysis
 
