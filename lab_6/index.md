@@ -8,6 +8,7 @@ The Directory includes
 ## Introduction
 
 ## Data
+
 Data was collected from the US census bureau using tidy census
 Data collected includes
 - 
