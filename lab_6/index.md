@@ -15,7 +15,7 @@ Data collected includes
 - Estimated attribute data for nativitity for Baltimore, Maryland in 2015
 
 The R code processed through RStudio is as follows
-<img src="images/fires3.gif?raw=true"/>
+<img src="lab_6/images/r_code.png?raw=true"/>
 
 ## Processing and Transformations
 
