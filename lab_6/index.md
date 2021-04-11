@@ -36,7 +36,7 @@ The results include the following maps.
 
 A univariate choropleth map showing estimated change for only the foregin-born population
 
-<img src="images/rforeign.png?raw=true"/>
+<img src="images/foreign.png?raw=true"/>
 
 A bivartiate choropleth map showing change in both sets of popuatlion.
 
