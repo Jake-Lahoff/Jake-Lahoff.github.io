@@ -6,7 +6,7 @@ The Directory includes
 - An index file with markdown for this page.
 
 ## Introduction
-fsdf
+For this lab, I focused on creating a map that will show estimated change in population in Baltimore, MD between 2015-2019. Data will compare estimated change in native population to estimated change in foureign-born population. Comparison will be made in the form of a bivariate choropleth map showing the two variables on one map of baltimore.
 
 ## Data
 Data was collected from the US census bureau using tidycensus. 
@@ -19,6 +19,7 @@ The R code processed through RStudio is as follows
 <img src="images/r_code.png?raw=true"/>
 
 ## Processing and Transformations
+The 
 
 ## Analysis
 
