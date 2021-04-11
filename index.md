@@ -8,8 +8,6 @@
 <br>My project 1 includes demonstrating increasing burn areas of california wildfires over time<br/>
 [<img src="images/fire_map_graph.png?raw=true"/>](project1_486/index.md)
 
-[<img src="images/fires3.gif?raw=true"/>](project1_486/index.md)
-
 ---
 [Lab 6](/lab_6/index.md)
 <br>Lab 6 involving bivariate choropleth maps<br/>
