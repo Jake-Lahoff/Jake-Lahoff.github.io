@@ -15,6 +15,7 @@ Data collected includes
 - Estimated attribute data for nativitity for Baltimore, Maryland in 2015
 
 The R code processed through RStudio is as follows
+lab_6/data/download_nativity.Rmd
 
 ## Processing and Transformations
 
