@@ -13,7 +13,7 @@
 ---
 [Lab 6](/lab_6/index.md)
 <br>Lab 6 involving bivariate choropleth maps<br/>
-[<img src="images/bivariate.png?raw=true"/>](/lab_6/index.md)
+[<img src="images/bivariate2.png?raw=true"/>](/lab_6/index.md)
 
 ---
 [Future Project Location 3](http://example.com/)
