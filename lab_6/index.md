@@ -29,5 +29,15 @@ Analysis was done using QGIS in the following steps
 1. Subtracted estimated native population of 2015 from 2019 data to find change in estimated native population
 2. Repeate steps for foureign-born population
 3. Divide total estimated change by 2015 estimates to find percent change for native and foreign born population. 
+4. Gerate a bivariate choropleth displying comparison in change for both sets of population.
 
 ## Results
+The results include the following maps.
+
+A univariate choropleth map showing estimated change for only the foregin-born population
+
+<img src="images/rforeign.png?raw=true"/>
+
+A bivartiate choropleth map showing change in both sets of popuatlion.
+
+<img src="images/bivariate2.png?raw=true"/>
