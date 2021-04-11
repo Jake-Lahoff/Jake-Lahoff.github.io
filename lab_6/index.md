@@ -1,6 +1,5 @@
 # Lab 6
-
-## Title
+### Comparing Change in Native and Foureign-Born Population in Baltimore, MD
 
 ## Introduction
 
