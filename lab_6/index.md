@@ -6,12 +6,15 @@ The Directory includes
 - An index file with markdown for this page.
 
 ## Introduction
+fsdf
 
 ## Data
-
-Data was collected from the US census bureau using tidy census
+Data was collected from the US census bureau using tidycensus. 
 Data collected includes
-- 
+- Estimated nativity data for 2019 with Geometry for Baltimore, Maryland
+- Estimated attribute data for nativitity for Baltimore, Maryland in 2015
+
+The R code processed through RStudio is as follows
 
 ## Processing and Transformations
 
