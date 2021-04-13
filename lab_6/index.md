@@ -20,7 +20,7 @@ The R code processed through RStudio is as follows
 
 ## Processing and Transformations
 Three transformations were required in this process.
-- Changing CRS of geometry to the QGIS standard EPSG: 3857
+- Changing CRS of geometry to the QGIS standard EPSG: 3857 for Web Mercator
 - Joining attribute data for 2015 data to the geometry for 2019 data, joining via the name collumn for census tracts
 - Clipping the vector data to only Baltimore city, from the original download of Baltimore County and City
 
