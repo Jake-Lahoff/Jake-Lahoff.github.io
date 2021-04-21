@@ -40,4 +40,4 @@ A univariate choropleth map showing estimated change for only the foregin-born p
 
 A bivartiate choropleth map showing change in both sets of popuatlion.
 
-<img src="images/bivariate2.png?raw=true"/>
+<img src="images/bivariate4.jpeg?raw=true"/>
