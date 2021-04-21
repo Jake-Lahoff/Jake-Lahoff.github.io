@@ -11,7 +11,7 @@
 ---
 [Lab 6](/lab_6/index.md)
 <br>Lab 6 involving bivariate choropleth maps<br/>
-[<img src="images/bivariate2.png?raw=true"/>](/lab_6/index.md)
+[<img src="images/bivariate4.jpeg?raw=true"/>](/lab_6/index.md)
 
 ---
 [Project Flakturme ](http://example.com/)
