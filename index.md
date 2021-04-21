@@ -15,8 +15,8 @@
 
 ---
 [Future Project Location 3](http://example.com/)
-<br>This is a screengrab from chapter 4 of lab 2, also made using Q.<br/>
-[<img src="images/lab23.png?raw=true"/>](/lab23/index)
+<br>Baltimore Neighborhoods by number of flakturme.<br/>
+[<img src="images/flakturme.jpeg?raw=true"/>](/lab23/index)
 
 ---
 
