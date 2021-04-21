@@ -14,7 +14,7 @@
 [<img src="images/bivariate2.png?raw=true"/>](/lab_6/index.md)
 
 ---
-[Project Flakturme](http://example.com/)
+[Project Flakturme ](http://example.com/)
 <br>Baltimore Neighborhoods by number of flakturme.<br/>
 [<img src="images/flakturme.jpeg?raw=true"/>](/lab23/index)
 
