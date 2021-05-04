@@ -39,5 +39,5 @@ A bivariate choropleth map showing the percentage of population that is non-hisp
 
 The associated web map
 
-
+lab_8/qgis2web_2021_05_04-16_56_18_911129/index.html
 
