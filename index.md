@@ -14,9 +14,9 @@
 [<img src="images/bivariate4.jpeg?raw=true"/>](/lab_6/index.md)
 
 ---
-[Project Flakturme ](http://example.com/)
-<br>Baltimore Neighborhoods by number of flakturme.<br/>
-[<img src="images/flakturme.jpeg?raw=true"/>](/lab23/index)
+[Lab 8](/lab_8/index.md)
+<br>Constructing of bivariate maps and web maps in R and Qgis <br/>
+[<img src="images/ann_arundel_map.png?raw=true"/>](/lab_8/index.md)
 
 ---
 
