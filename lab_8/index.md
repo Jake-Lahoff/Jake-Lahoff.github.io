@@ -35,9 +35,9 @@ The results include the following maps.
 
 A bivariate choropleth map showing the percentage of population that is non-hispanic white in census tacts compared to anual household income of non-hispaic white homeowners in Anne Arundel county Maryland.
 
-<img src="images/foreign.png?raw=true"/>
+<img src="lab_8/images/ann_arundel_map.png?raw=true"/>
 
 The associated web map
 
-<img src="images/bivariate4.jpeg?raw=true"/>
+
 
