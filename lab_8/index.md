@@ -17,7 +17,7 @@ Data collected includes
 
 The R code processed through RStudio can be found here
 
-<img src="images/r_code.png?raw=true"/>
+https://github.com/Jake-Lahoff/Jake-Lahoff.github.io/tree/master/lab_8/code
 
 ## Processing and Transformations
 Three transformations were required in this process.
