@@ -20,26 +20,24 @@ The R code processed through RStudio can be found here
 https://github.com/Jake-Lahoff/Jake-Lahoff.github.io/tree/master/lab_8/code
 
 ## Processing and Transformations
-Three transformations were required in this process.
+One transformation was required for this lab
 - Changing CRS of geometry to the QGIS standard EPSG: 3857 for Web Mercator
-- Joining attribute data for 2015 data to the geometry for 2019 data, joining via the name collumn for census tracts
-- Clipping the vector data to only Baltimore city, from the original download of Baltimore County and City
 
 ## Analysis
 Analysis was done using QGIS in the following steps
-1. Subtracted estimated native population of 2015 from 2019 data to find change in estimated native population
-2. Repeate steps for foureign-born population
-3. Divide total estimated change by 2015 estimates to find percent change for native and foreign born population. 
-4. Gerate a bivariate choropleth displying comparison in change for both sets of population.
+1. Calculate percent white population by dividing white population by total population
+2. Use use the biclass tool to create a category for the bivariate scale of population and income
+3. Use the legend tool to generate an appropriate legend from the data
+4. Gerate a bivariate choropleth displying population and income.
 
 ## Results
 The results include the following maps.
 
-A univariate choropleth map showing estimated change for only the foregin-born population
+A bivariate choropleth map showing the percentage of population that is non-hispanic white in census tacts compared to anual household income of non-hispaic white homeowners in Anne Arundel county Maryland.
 
 <img src="images/foreign.png?raw=true"/>
 
-A bivartiate choropleth map showing change in both sets of popuatlion.
+The associated web map
 
 <img src="images/bivariate4.jpeg?raw=true"/>
 
