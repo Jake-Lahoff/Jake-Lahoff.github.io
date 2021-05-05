@@ -11,6 +11,7 @@
 ---
 [Lab 5](/lab_5/index.md)
 <br>Lab 5 involving gif creation and web mapping<br/>
+[<img src="images/pop_change_aaco.gif?raw=true"/>](/lab_5/index.md)
 
 
 ---
