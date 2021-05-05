@@ -37,7 +37,7 @@ A bivariate choropleth map showing the percentage of population that is non-hisp
 
 <img src="images/ann_arundel_map.png?raw=true"/>
 
-[The associated web map](qgis2web_2021_05_04-17_46_13_444443/index.html)
+The associated web map can be found [here](qgis2web_2021_05_04-17_46_13_444443/index.html)
 
 
 
