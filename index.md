@@ -9,6 +9,11 @@
 [<img src="images/fire_map_graph.png?raw=true"/>](project1_486/index.md)
 
 ---
+[Lab 5](/lab_5/index.md)
+<br>Lab 5 involving gif creation and web mapping<br/>
+
+
+---
 [Lab 6](/lab_6/index.md)
 <br>Lab 6 involving bivariate choropleth maps<br/>
 [<img src="images/bivariate4.jpeg?raw=true"/>](/lab_6/index.md)
