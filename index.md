@@ -29,7 +29,7 @@
 
 
 ---
-[Jake Lahoff](index.md)[.](/easter/index.md)
+[J](/easter/index.md)[ake Laho](index.md)[f](easter/index.md)[f](/index.md)
 
 <p style="font-size:11px">Page template forked from <a href="https://github.com/evanca/quick-portfolio">evanca</a></p>
 <!-- Remove above link if you don't want to attibute -->
