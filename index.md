@@ -24,12 +24,12 @@
 <br>Constructing of bivariate maps and web maps in R and Qgis <br/>
 [<img src="images/ann_arundel_map.png?raw=true"/>](/lab_8/index.md)
 
----
 
 
 
 
 ---
-<p style="font-size:11px"> <a href=easter/images/flakturme.jpeg>Jake Lahoff</a></p>
-<p style="font-size:11px">Page template forked from <a href="https://github.com/evanca/quick-portfolio">evanca</a></p>
+<p style="font-size:11px">Page template forked from <a href="https://github.com/evanca/quick-portfolio">evanca</a>
+[Jake Lahoff](easter/index.md)
+</p>
 <!-- Remove above link if you don't want to attibute -->
