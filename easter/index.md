@@ -1,1 +1,1 @@
-<img src="images/fire_map_graph.png?raw=true"/>
+<img src="images/flakturme.jpeg?raw=true"/>
