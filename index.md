@@ -26,6 +26,7 @@
 
 ---
 [Final Project](/final_project/index.md)
+<br>Comparing flooding from hurricane Harvey in 2017 to population change from 2016-2018 in Houston, Texas<br/>
 [<img src="images/bivariate_map.png?raw=true"/>](/final_project/index.md)
 
 
