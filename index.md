@@ -25,7 +25,7 @@
 [<img src="images/ann_arundel_map.png?raw=true"/>](/lab_8/index.md)
 
 ---
-[Lab 8](/final_project/index.md)
+[Final Project](/final_project/index.md)
 
 
 
