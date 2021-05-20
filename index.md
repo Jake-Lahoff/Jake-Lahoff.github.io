@@ -26,7 +26,7 @@
 
 ---
 [Final Project](/final_project/index.md)
-
+[<img src="images/bivariate_map.png?raw=true"/>](/final_project/index.md)
 
 
 
