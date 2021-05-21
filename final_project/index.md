@@ -16,7 +16,7 @@ First, I gathered population data.
 * The data collected was then transformed into WGS 84, and stored as a geojson file to be used through Qgis.
 * The geojson files were then uploaded into Qgis, where they were joined together to make one dataset.
 * The field calculator was then used to calculated change in population, and then to calculate the population change in percent
-* The resulting data is displayed on the following choropleth map.
+* These resulting data is displayed on the following choropleth map.
 
 <img src="images/vector.png"/>
 
@@ -28,13 +28,16 @@ Next I wanted to quantify flooding caused by the storm.
 
 * I found a raster data set that displayed the flooding that occured due to Hurricane Harvey. The raster was provided by Michael Wehner from Lawrence Berkeley National Laboratory and Christopher Sampson from Fathom Global and can be found at the following link.
 https://portal.nersc.gov/cascade/Harvey/
+* Data for the raster is provided in meters with 30 meter spatial resolution. 
+* These resulting data is displayed on the following map.
 
+<img src="images/raster.png"/>
 
 
 
 [Web map can be found here](qgis2web_2021_05_20-03_26_41_707581/index.html)
 
-<img src="images/raster.png"/>
+
 
 
 <img src="images/bivariate_map.png"/>
