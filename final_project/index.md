@@ -46,6 +46,9 @@ I decided to quantify flooding by the percent surface area of each census tract 
 * One I had my vector data set with each cell of the raster turned into a polygon, I did a spatial join to join the flooding data to the population census tracts.
 * One all the flood data was joined to the census tracts, I was able to calculate the area of the flooding that occured in each tract using the raster calculator.
 * The surface area of flooding could then be divided by the area of the tract to find the percent surface area that each tract was flooded. 
+* The resulting data is displayed on the following choropleth map.
+
+<img src="images/flooding_per.png"/>
 
 [Web map can be found here](qgis2web_2021_05_20-03_26_41_707581/index.html)
 
