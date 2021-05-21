@@ -1,8 +1,8 @@
-#Hurricane Harvey
+# Hurricane Harvey
 
 Hurricane Harvey was a category 4 hurricane that made landfall in Texas on August 25th, 2017. The hurricane brought with it massive flooding that devistated Texas and Louisiana, particuruaily in the area in and arround around Houston, Texas.
 
-The goal
+The goal of my project is to quantify the effects of the flooding, and find out how it may have impacted the population in Houston, by comparing flood data to population data in 2016 and 2018.
 
 
 
