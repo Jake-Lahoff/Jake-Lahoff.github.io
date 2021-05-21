@@ -33,7 +33,19 @@ https://portal.nersc.gov/cascade/Harvey/
 
 <img src="images/raster.png"/>
 
+---
 
+### Step 3: Compare
+
+The end goal of the project is to find a way to compare flooding to population change.
+
+I decided to quantify flooding by the percent surface area of each census tract that was affected by flood. I chose to use flooding above 1 meter, becasue it was an easy number to work with and demonstrates substantial flooding. Using the entire raster data set resulted in an oversaturation of flooding data that made analysis difficult.
+
+* To start, Raster calculation was done to find all areas that were flooded greater than or equal to 1 meter, and to remove area with permanent standing water.
+* I then turned the raster into a vector data set so I could quantify the surface area of the flooding.
+* One I had my vector data set with each cell of the raster turned into a polygon, I did a spatial join to join the flooding data to the population census tracts.
+* One all the flood data was joined to the census tracts, I was able to calculate the area of the flooding that occured in each tract using the raster calculator.
+* The surface area of flooding could then be divided by the area of the tract to find the percent surface area that each tract was flooded. 
 
 [Web map can be found here](qgis2web_2021_05_20-03_26_41_707581/index.html)
 
