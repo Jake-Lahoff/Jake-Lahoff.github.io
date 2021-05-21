@@ -10,7 +10,7 @@ The goal of my project is to quantify the effects of the flooding, and find out 
 ## Step 1: Population
 
 The first step was to gather population data. 
-* I used tidycensus through Rstudio to collect this data from the American Community Survey.
+* Tidycensus was used through Rstudio to collect this data from the American Community Survey.
 * Houston is located in Harris County, Texas, so this is the target for data collection.
 * Data was collected from 2016 and 2018, to quantify change for the hurricane that occured in 2017.
 * The data collected was then transformed into WGS 84, and stored as a geojson file to be used through Qgis.
@@ -20,7 +20,7 @@ The first step was to gather population data.
 
 <img src="images/vector.png"/>
 
-
+---
 
 
 
