@@ -9,7 +9,7 @@ The goal of my project is to quantify the effects of the flooding, and find out 
 
 ### Step 1: Population
 
-The first step was to gather population data. 
+First, I gathered population data. 
 * Tidycensus was used through Rstudio to collect this data from the American Community Survey.
 * Houston is located in Harris County, Texas, so this is the target for data collection.
 * Data was collected from 2016 and 2018, to quantify change for the hurricane that occured in 2017.
@@ -22,7 +22,12 @@ The first step was to gather population data.
 
 ---
 
+### Step 2: Flooding
 
+Next I wanted to quantify flooding caused by the storm.
+
+* I found a raster data set that displayed the flooding that occured due to Hurricane Harvey. The raster was provided by Michael Wehner from Lawrence Berkeley National Laboratory and Christopher Sampson from Fathom Global and can be found at the following link.
+https://portal.nersc.gov/cascade/Harvey/
 
 
 
