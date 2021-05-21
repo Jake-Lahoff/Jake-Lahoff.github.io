@@ -9,10 +9,16 @@ The goal of my project is to quantify the effects of the flooding, and find out 
 
 ## Step 1: Population
 
-* The first step was to gather population data. I used tidycensus through Rstudio to collect this data from the American Community Survey.
+The first step was to gather population data. 
+* I used tidycensus through Rstudio to collect this data from the American Community Survey.
 * Houston is located in Harris County, Texas, so this is the target for data collection.
 * Data was collected from 2016 and 2018, to quantify change for the hurricane that occured in 2017.
 * The data collected was then transformed into WGS 84, and stored as a geojson file to be used through Qgis.
+* The geojson files were then uploaded into Qgis, where they were joined together to make one dataset.
+* The field calculator was then used to calculated change in population, and then to calculate the population change in percent
+* The resulting data is displayed on the following choropleth map.
+
+<img src="images/vector.png"/>
 
 
 
@@ -25,6 +31,5 @@ The goal of my project is to quantify the effects of the flooding, and find out 
 
 <img src="images/raster.png"/>
 
-<img src="images/vector.png"/>
 
 <img src="images/bivariate_map.png"/>
