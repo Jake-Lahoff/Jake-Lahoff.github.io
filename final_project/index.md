@@ -7,7 +7,7 @@ The goal of my project is to quantify the effects of the flooding, and find out 
 
 ---
 
-## Step 1: Population
+### Step 1: Population
 
 The first step was to gather population data. 
 * Tidycensus was used through Rstudio to collect this data from the American Community Survey.
