@@ -50,9 +50,14 @@ I decided to quantify flooding by the percent surface area of each census tract 
 
 <img src="images/flooding_per.png"/>
 
+* The two shapefiles were then used to make a bivariate choropleth map showing change in population from 2016-2018 on one axis, and percent surface area flooding on the other axis. 
+* These data as well as the raster showing the extent of flooding equal to or above 1 meter is displayed on the following map.
+
+<img src="images/bivariate_map.png"/>
+
 [Web map can be found here](qgis2web_2021_05_20-03_26_41_707581/index.html)
 
 
 
 
-<img src="images/bivariate_map.png"/>
+
