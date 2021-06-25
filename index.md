@@ -1,9 +1,5 @@
 ## Portfolio
 
-
-
-### Projects located here 
-
 [Parking Meters](ParkingMeters/index.md)
 <br>Adjusting and analysis of parking meter data in Baltimore County<br/>
 [<img src="images/Catonsville.png?raw=true"/>](ParkingMeters/index.md)
