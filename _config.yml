@@ -1,11 +1,15 @@
 title: Jake Lahoff # your name (or website title) here
 logo: "/images/me.JPG?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
+  <br><br> 
+  Located in Baltimore, Maryland
   <br><br>
-  Undergraduate student at UMBC, majoring in Geography and Environmental Science with a certificate is Geographic Information Systems
+  BS in Environmental Science and Geography from UMBC
   <br><br>
-  This serves as a portfolio for GES 486, Advanced GIS, at UMBC
+  Geographic Information Science certificate from UMBC
   <br><br>
+  Baltimore County Department of Public Works and Transportation GIS intern
+  
   <a href="https://www.linkedin.com/in/jake-l-4956831a4/">View My LinkedIn Profile</a> 
   
 theme: jekyll-theme-minimal
