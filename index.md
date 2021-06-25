@@ -4,9 +4,9 @@
 
 ### Projects located here 
 
-[Project 1](project1_486/index.md)
-<br>My project 1 includes demonstrating increasing burn areas of california wildfires over time<br/>
-[<img src="images/fire_map_graph.png?raw=true"/>](project1_486/index.md)
+[Parking Meters](ParkingMeters/index.md)
+<br>Adjusting and analysis of parking meter data in Baltimore County<br/>
+[<img src="images/Catonsville.png?raw=true"/>](ParkingMeters/index.md)
 
 ---
 [Lab 5](/lab_5/index.md)
