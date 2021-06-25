@@ -1,4 +1,4 @@
-# Lab 8
+# Anne Arundel County Population Change
 ### Constructing bivariate maps in R and Qgis
 The Directory includes 
 - An image folder with PDF's of my bivariate map showing the percentage of population that is non-hispanic white in census tacts compared to anual household income of non-hispaic white homeowners in Anne Arundel county Maryland.
