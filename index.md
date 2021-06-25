@@ -10,7 +10,7 @@
 
 ---
 [Anne Arundle County Population Change](/lab_8/index.md)
-<br>Constructing of bivariate maps and web maps in R and Qgis <br/>
+<br>Constructing bivariate maps and web maps in R and Qgis <br/>
 [<img src="images/ann_arundel_map.png?raw=true"/>](/lab_8/index.md)
 
 ---
