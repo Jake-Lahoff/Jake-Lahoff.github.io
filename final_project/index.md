@@ -62,7 +62,7 @@ I decided to quantify flooding by the percent surface area of each census tract 
 I also made this data available as a web map, which can be found below.
 Census tracts can be clicked to see data on population and flooding.
 
-[your mom](qgis2web_2021_05_20-03_26_41_707581/index.html)
+Web mao can be found [here](qgis2web_2021_05_20-03_26_41_707581/index.html)
 
 ---
 
