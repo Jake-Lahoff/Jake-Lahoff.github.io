@@ -1,0 +1,284 @@
+<!doctype html>
+<html lang="en">
+    <head>
+        <meta charset="utf-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+        <meta name="viewport" content="initial-scale=1,user-scalable=no,maximum-scale=1,width=device-width">
+        <meta name="mobile-web-app-capable" content="yes">
+        <meta name="apple-mobile-web-app-capable" content="yes">
+        <link rel="stylesheet" href="css/leaflet.css">
+        <link rel="stylesheet" href="css/qgis2web.css"><link rel="stylesheet" href="css/fontawesome-all.min.css">
+        <style>
+        #map {
+            width: 1666px;
+            height: 891px;
+        }
+        </style>
+        <title></title>
+    </head>
+    <body>
+        <div id="map">
+        </div>
+        <script src="js/qgis2web_expressions.js"></script>
+        <script src="js/leaflet.js"></script>
+        <script src="js/leaflet.rotatedMarker.js"></script>
+        <script src="js/leaflet.pattern.js"></script>
+        <script src="js/leaflet-hash.js"></script>
+        <script src="js/Autolinker.min.js"></script>
+        <script src="js/rbush.min.js"></script>
+        <script src="js/labelgun.min.js"></script>
+        <script src="js/labels.js"></script>
+        <script src="data/ocean_0.js"></script>
+        <script src="data/island_1.js"></script>
+        <script src="data/plateau_2.js"></script>
+        <script src="data/mountain_3.js"></script>
+        <script src="data/water_features_4.js"></script>
+        <script src="data/peak_5.js"></script>
+        <script>
+        var map = L.map('map', {
+            zoomControl:true, maxZoom:28, minZoom:1
+        }).fitBounds([[39.42937483109835,-10.11474534697149],[52.73300946510761,26.0428550930635]]);
+        var hash = new L.Hash(map);
+        map.attributionControl.setPrefix('<a href="https://github.com/tomchadwin/qgis2web" target="_blank">qgis2web</a> &middot; <a href="https://leafletjs.com" title="A JS library for interactive maps">Leaflet</a> &middot; <a href="https://qgis.org">QGIS</a>');
+        var autolinker = new Autolinker({truncate: {length: 30, location: 'smart'}});
+        var bounds_group = new L.featureGroup([]);
+        function setBounds() {
+        }
+        function pop_ocean_0(feature, layer) {
+            var popupContent = '<table>\
+                    <tr>\
+                        <td colspan="2">' + (feature.properties['id'] !== null ? autolinker.link(feature.properties['id'].toLocaleString()) : '') + '</td>\
+                    </tr>\
+                    <tr>\
+                        <td colspan="2">' + (feature.properties['Feature'] !== null ? autolinker.link(feature.properties['Feature'].toLocaleString()) : '') + '</td>\
+                    </tr>\
+                </table>';
+            layer.bindPopup(popupContent, {maxHeight: 400});
+        }
+
+        function style_ocean_0_0() {
+            return {
+                pane: 'pane_ocean_0',
+                opacity: 1,
+                color: 'rgba(35,35,35,1.0)',
+                dashArray: '',
+                lineCap: 'butt',
+                lineJoin: 'miter',
+                weight: 1.0, 
+                fill: true,
+                fillOpacity: 1,
+                fillColor: 'rgba(61,83,210,1.0)',
+                interactive: false,
+            }
+        }
+        map.createPane('pane_ocean_0');
+        map.getPane('pane_ocean_0').style.zIndex = 400;
+        map.getPane('pane_ocean_0').style['mix-blend-mode'] = 'normal';
+        var layer_ocean_0 = new L.geoJson(json_ocean_0, {
+            attribution: '',
+            interactive: false,
+            dataVar: 'json_ocean_0',
+            layerName: 'layer_ocean_0',
+            pane: 'pane_ocean_0',
+            onEachFeature: pop_ocean_0,
+            style: style_ocean_0_0,
+        });
+        bounds_group.addLayer(layer_ocean_0);
+        map.addLayer(layer_ocean_0);
+        function pop_island_1(feature, layer) {
+            var popupContent = '<table>\
+                    <tr>\
+                        <td colspan="2">' + (feature.properties['id'] !== null ? autolinker.link(feature.properties['id'].toLocaleString()) : '') + '</td>\
+                    </tr>\
+                </table>';
+            layer.bindPopup(popupContent, {maxHeight: 400});
+        }
+
+        function style_island_1_0() {
+            return {
+                pane: 'pane_island_1',
+                opacity: 1,
+                color: 'rgba(35,35,35,1.0)',
+                dashArray: '',
+                lineCap: 'butt',
+                lineJoin: 'miter',
+                weight: 1.0, 
+                fill: true,
+                fillOpacity: 1,
+                fillColor: 'rgba(114,155,111,1.0)',
+                interactive: false,
+            }
+        }
+        map.createPane('pane_island_1');
+        map.getPane('pane_island_1').style.zIndex = 401;
+        map.getPane('pane_island_1').style['mix-blend-mode'] = 'normal';
+        var layer_island_1 = new L.geoJson(json_island_1, {
+            attribution: '',
+            interactive: false,
+            dataVar: 'json_island_1',
+            layerName: 'layer_island_1',
+            pane: 'pane_island_1',
+            onEachFeature: pop_island_1,
+            style: style_island_1_0,
+        });
+        bounds_group.addLayer(layer_island_1);
+        map.addLayer(layer_island_1);
+        function pop_plateau_2(feature, layer) {
+            var popupContent = '<table>\
+                    <tr>\
+                        <td colspan="2">' + (feature.properties['id'] !== null ? autolinker.link(feature.properties['id'].toLocaleString()) : '') + '</td>\
+                    </tr>\
+                </table>';
+            layer.bindPopup(popupContent, {maxHeight: 400});
+        }
+
+        function style_plateau_2_0() {
+            return {
+                pane: 'pane_plateau_2',
+                opacity: 1,
+                color: 'rgba(35,35,35,1.0)',
+                dashArray: '',
+                lineCap: 'butt',
+                lineJoin: 'miter',
+                weight: 1.0, 
+                fill: true,
+                fillOpacity: 1,
+                fillColor: 'rgba(141,139,84,1.0)',
+                interactive: false,
+            }
+        }
+        map.createPane('pane_plateau_2');
+        map.getPane('pane_plateau_2').style.zIndex = 402;
+        map.getPane('pane_plateau_2').style['mix-blend-mode'] = 'normal';
+        var layer_plateau_2 = new L.geoJson(json_plateau_2, {
+            attribution: '',
+            interactive: false,
+            dataVar: 'json_plateau_2',
+            layerName: 'layer_plateau_2',
+            pane: 'pane_plateau_2',
+            onEachFeature: pop_plateau_2,
+            style: style_plateau_2_0,
+        });
+        bounds_group.addLayer(layer_plateau_2);
+        map.addLayer(layer_plateau_2);
+        function pop_mountain_3(feature, layer) {
+            var popupContent = '<table>\
+                    <tr>\
+                        <td colspan="2">' + (feature.properties['id'] !== null ? autolinker.link(feature.properties['id'].toLocaleString()) : '') + '</td>\
+                    </tr>\
+                    <tr>\
+                        <td colspan="2">' + (feature.properties['level'] !== null ? autolinker.link(feature.properties['level'].toLocaleString()) : '') + '</td>\
+                    </tr>\
+                </table>';
+            layer.bindPopup(popupContent, {maxHeight: 400});
+        }
+
+        function style_mountain_3_0() {
+            return {
+                pane: 'pane_mountain_3',
+                opacity: 1,
+                color: 'rgba(35,35,35,1.0)',
+                dashArray: '',
+                lineCap: 'butt',
+                lineJoin: 'miter',
+                weight: 1.0, 
+                fill: true,
+                fillOpacity: 1,
+                fillColor: 'rgba(166,97,26,1.0)',
+                interactive: false,
+            }
+        }
+        map.createPane('pane_mountain_3');
+        map.getPane('pane_mountain_3').style.zIndex = 403;
+        map.getPane('pane_mountain_3').style['mix-blend-mode'] = 'normal';
+        var layer_mountain_3 = new L.geoJson(json_mountain_3, {
+            attribution: '',
+            interactive: false,
+            dataVar: 'json_mountain_3',
+            layerName: 'layer_mountain_3',
+            pane: 'pane_mountain_3',
+            onEachFeature: pop_mountain_3,
+            style: style_mountain_3_0,
+        });
+        bounds_group.addLayer(layer_mountain_3);
+        map.addLayer(layer_mountain_3);
+        function pop_water_features_4(feature, layer) {
+            var popupContent = '<table>\
+                    <tr>\
+                        <td colspan="2">' + (feature.properties['id'] !== null ? autolinker.link(feature.properties['id'].toLocaleString()) : '') + '</td>\
+                    </tr>\
+                </table>';
+            layer.bindPopup(popupContent, {maxHeight: 400});
+        }
+
+        function style_water_features_4_0() {
+            return {
+                pane: 'pane_water_features_4',
+                opacity: 1,
+                color: 'rgba(35,35,35,1.0)',
+                dashArray: '',
+                lineCap: 'butt',
+                lineJoin: 'miter',
+                weight: 1.0, 
+                fill: true,
+                fillOpacity: 1,
+                fillColor: 'rgba(43,131,186,1.0)',
+                interactive: false,
+            }
+        }
+        map.createPane('pane_water_features_4');
+        map.getPane('pane_water_features_4').style.zIndex = 404;
+        map.getPane('pane_water_features_4').style['mix-blend-mode'] = 'normal';
+        var layer_water_features_4 = new L.geoJson(json_water_features_4, {
+            attribution: '',
+            interactive: false,
+            dataVar: 'json_water_features_4',
+            layerName: 'layer_water_features_4',
+            pane: 'pane_water_features_4',
+            onEachFeature: pop_water_features_4,
+            style: style_water_features_4_0,
+        });
+        bounds_group.addLayer(layer_water_features_4);
+        map.addLayer(layer_water_features_4);
+        function pop_peak_5(feature, layer) {
+            var popupContent = '<table>\
+                    <tr>\
+                        <td colspan="2">' + (feature.properties['id'] !== null ? autolinker.link(feature.properties['id'].toLocaleString()) : '') + '</td>\
+                    </tr>\
+                </table>';
+            layer.bindPopup(popupContent, {maxHeight: 400});
+        }
+
+        function style_peak_5_0() {
+            return {
+                pane: 'pane_peak_5',
+                opacity: 1,
+                color: 'rgba(35,35,35,1.0)',
+                dashArray: '',
+                lineCap: 'butt',
+                lineJoin: 'miter',
+                weight: 1.0, 
+                fill: true,
+                fillOpacity: 1,
+                fillColor: 'rgba(209,209,209,1.0)',
+                interactive: false,
+            }
+        }
+        map.createPane('pane_peak_5');
+        map.getPane('pane_peak_5').style.zIndex = 405;
+        map.getPane('pane_peak_5').style['mix-blend-mode'] = 'normal';
+        var layer_peak_5 = new L.geoJson(json_peak_5, {
+            attribution: '',
+            interactive: false,
+            dataVar: 'json_peak_5',
+            layerName: 'layer_peak_5',
+            pane: 'pane_peak_5',
+            onEachFeature: pop_peak_5,
+            style: style_peak_5_0,
+        });
+        bounds_group.addLayer(layer_peak_5);
+        map.addLayer(layer_peak_5);
+        setBounds();
+        </script>
+    </body>
+</html>
